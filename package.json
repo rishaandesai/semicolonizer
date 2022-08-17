@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Blackhole1123/semicolons.git"
+    "url": "git+https://github.com/Blackhole1123/semicolonize.git"
   },
   "keywords": [
     "semicolons",
@@ -29,9 +29,9 @@
   "author": "Rishaan Desai",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Blackhole1123/semicolons/issues"
+    "url": "https://github.com/Blackhole1123/semicolonize/issues"
   },
-  "homepage": "https://github.com/Blackhole1123/semicolons#readme",
+  "homepage": "https://github.com/Blackhole1123/semicolonize#readme",
   "dependencies": {
     "index.js": "^0.0.3",
     "semicolonizer": "^1.0.0"
