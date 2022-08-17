@@ -1,0 +1,39 @@
+{
+  "name": "semicolonizer",
+  "version": "1.0.2",
+  "description": "Fix all semicolon errors in JavaScript and TypeScript",
+  "main": "index.js",
+  "bin": {
+    "semicolonizer": "cli.js",
+    "semicolonize": "cli.js"
+  },
+  "start": "node cli.js",
+  "scripts": {
+    "test": "node ./test.js",
+    "semicolonize": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blackhole1123/semicolons.git"
+  },
+  "keywords": [
+    "semicolons",
+    "syntax",
+    "errors",
+    "syntax",
+    "errors",
+    "semicolon",
+    "semicolonize",
+    "semicolonizer"
+  ],
+  "author": "Rishaan Desai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Blackhole1123/semicolons/issues"
+  },
+  "homepage": "https://github.com/Blackhole1123/semicolons#readme",
+  "dependencies": {
+    "index.js": "^0.0.3",
+    "semicolonizer": "^1.0.0"
+  }
+}
