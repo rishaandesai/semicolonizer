@@ -1,6 +1,6 @@
 {
   "name": "semicolonizer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Fix all semicolon errors in JavaScript and TypeScript",
   "main": "index.js",
   "bin": {
